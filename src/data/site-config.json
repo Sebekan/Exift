@@ -1,0 +1,21 @@
+{
+  "brand": {
+    "name": "exift",
+    "tagline": "Geçmişi Sil, Yeni Başlangıçlara Yer Aç."
+  },
+  "hero": {
+    "title": "Eski sevgilinden kalan o eşyayı, hikayesiyle birlikte sat.",
+    "subtitle": "O yüzükten de kurtul, hem ruhunu hafifletsin hem cebini doldursun.",
+    "imageUrl": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=600"
+  },
+  "footer": {
+    "about": "Exift, geçmişten kalan eşyaların hikâyeleriyle birlikte yeni sahipleriyle buluştuğu bir platformdur. Her eşyanın bir anısı, her anının ise anlatılacak bir hikâyesi vardır.",
+    "email": "exift.official@gmail.com",
+    "location": "İstanbul, Türkiye",
+    "instagram": "https://www.instagram.com/exift.co/",
+    "copyright": "© 2026 Exift. Tüm hakları saklıdır. Geçmişi siler, geleceği inşa eder."
+  },
+  "contact": {
+    "email": "exift.official@gmail.com"
+  }
+}

@@ -1,0 +1,6 @@
+[
+  { "id": "taki-aksesuar", "label": "Takı & Aksesuar", "icon": "Gem" },
+  { "id": "giyim-moda", "label": "Giyim & Moda", "icon": "Shirt" },
+  { "id": "teknoloji", "label": "Teknoloji", "icon": "Smartphone" },
+  { "id": "diger-anilar", "label": "Diğer", "icon": "PackageOpen" }
+]
